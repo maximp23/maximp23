@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @maximp23
+- 👋 Hi, I’m Maxim Kurdy
 - 👀 I’m interested in python 
 - 🌱 I’m currently learning data science and machine learning 
 
